@@ -7,6 +7,13 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Post með skyrslum\n\n\n\n\n\n\n2023\n\n\n2025\n\n\nYfirlit\n\n\n\n\n\n\n\n\n\nJan 2, 2025\n\n\nMenntavísindi\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome little lamb\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 30, 2024\n\n\nNamless\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About me",
@@ -21,31 +28,17 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post með skyrslum",
-    "section": "",
-    "text": "Þetta eru skýrslurnar hér\n\n15 + 15\n\n[1] 30"
-  },
-  {
-    "objectID": "Portfolio.html",
-    "href": "Portfolio.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Post með skyrslum\n\n\n\n\n\n\n2023\n\n\n2025\n\n\nYfirlit\n\n\n\n\n\n\n\n\n\nJan 2, 2025\n\n\nMenntavísindi\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome little lamb\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 30, 2024\n\n\nNamless\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "My titleless website",
-    "section": "",
-    "text": "![](Góðan dag.pdf)"
-  },
-  {
     "objectID": "index_old.html",
     "href": "index_old.html",
     "title": "my_website",
     "section": "",
     "text": "Post með skyrslum\n\n\n\n\n\n\n2023\n\n\n2025\n\n\nYfirlit\n\n\n\n\n\n\n\n\n\nJan 2, 2025\n\n\nMenntavísindi\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome little lamb\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 30, 2024\n\n\nNamless\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post með skyrslum",
+    "section": "",
+    "text": "Þetta eru skýrslurnar hér\n\n15 + 15\n\n[1] 30"
   }
 ]
