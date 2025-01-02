@@ -1,0 +1,14 @@
+---
+title: "Post með skyrslum"
+author: "Menntavísindi"
+date: "2025-01-02"
+categories: ["2023", "2025", Yfirlit]
+image: "owl-8285565_1280.png"
+---
+
+Þetta eru skýrslurnar
+[hér](https://fjolmidlanefnd.is/born-og-netmidlar/){target="_blank"}
+
+```{r}
+15 + 15
+```

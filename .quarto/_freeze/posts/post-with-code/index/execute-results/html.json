@@ -1,0 +1,15 @@
+{
+  "hash": "ceae913807a5e18b49c75b5ce90b5320",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Post með skyrslum\"\nauthor: \"Menntavísindi\"\ndate: \"2025-01-02\"\ncategories: [\"2023\", \"2025\", Yfirlit]\nimage: \"owl-8285565_1280.png\"\n---\n\n\nÞetta eru skýrslurnar\n[hér](https://fjolmidlanefnd.is/born-og-netmidlar/){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n15 + 15\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 30\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
